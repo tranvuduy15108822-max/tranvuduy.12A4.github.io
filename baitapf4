@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"
+<title> Lớp 12A4</title>
+</head>
+<body>
+<p><a href="../index.html">Về trang chủ</a></p>
+<img src="https://cdn.tienphong.vn/images/07052e18a35e9a0c389203010a526b0a1a056fe093f3e7141b363a69f28bfb3e25a26be8b8d2655a45518a35f7dc420b/cha-eun-woo1.jpg"width="150"height="200" alt="Ảnh chân dung">
+</body>
+</html>
